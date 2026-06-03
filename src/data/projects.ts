@@ -51,7 +51,7 @@ const data: Project[] = [
   {
     title: 'Thermoforming Machine',
     subtitle: 'Catheter Tip Shaping Machine',
-    link: '/',
+    link: 'https://muhammadtayyab1002.github.io/Thermoforming.github.io/',
     image: '/images/projects/Thermo.png',
     date: '2024-02-15',
     desc: 'A specialized piece of equipment used in the use in early prototype shaping of catheters in Catheter Research & Development. It utilizes heat and pressure to mold catheter tip into specific shapes and designs needed. Developed at Revive Medical Technologies',
