@@ -3,7 +3,7 @@
  */
 
 // Site configuration
-export const SITE_URL = 'https://muhammadtayyab1002.github.io/personal-site';
+export const SITE_URL = 'https://muhammadtayyab1002.github.io';
 export const AUTHOR_NAME = 'Muhammad Tayyab';
 export const TWITTER_HANDLE = '';
 
