@@ -13,7 +13,7 @@ const data: Project[] = [
   {
     title: 'STM Step Control',
     subtitle: 'Precise Stepper Control Library',
-    link: 'https://github.com/MuhammadTayyab1002/STM-StepControl',
+    link: 'https://muhammadtayyab1002.github.io/STM-StepControl',
     image: '/images/projects/lead-bg.jpg',
     date: '2024-04-03',
     desc: 'Provides an easy-to-use interface for controlling stepper motors using STM microcontrollers and driver modules. It supports two pulse generation methods: - Delay-based control for precise step timing. - PWM-based control for efficient and scalable pulse output',
