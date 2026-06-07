@@ -79,7 +79,7 @@ const data: Project[] = [
   {
     title: 'Gesture Controlled Robot',
     subtitle: 'Department 2nd in Open House',
-    link: 'https://github.com/MuhammadTayyab1002/Gesture_Controlled_Robot',
+    link: 'https://muhammadtayyab1002.github.io/Gesture_Controlled_Robot/',
     image: '/images/projects/GCR.jpg',
     date: '2023-06-28',
     desc: 'The robotic arm moves and completes the task while the system mimics the actions of human hands. It is coded so that the expected behavior for the fatal gesture is carried out.',
