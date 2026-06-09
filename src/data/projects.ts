@@ -37,7 +37,7 @@ const data: Project[] = [
     link: 'https://muhammadtayyab1002.github.io/3-Axis-Stabilizer',
     date: '2025-08-01',
     desc: 'Powered by STM32L432 ensuring top-notch low-power, high-performance control. Integration of 3-axis motor drivers for precise motion control. On-board MPU6050 IMU providing essential orientation feedback.',
-    tech: ['Altium', 'PCB Layout', 'Multi Layer' , 'DFM'],
+    tech: ['Altium', 'PCB Layout', 'Multi Layer', 'DFM'],
     type: 2,
   },
   {
