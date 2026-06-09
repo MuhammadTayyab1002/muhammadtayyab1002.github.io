@@ -44,6 +44,7 @@ const data: Project[] = [
     title: 'BP Monitor POC',
     subtitle: 'Firmware & Circuit Design',
     image: '/images/projects/BP.png',
+    link: 'https://muhammadtayyab1002.github.io/BP-Monitor-POC/',
     date: '2025-10-01',
     desc: 'A Blood pressure compute algorithm designed for STM32 based MCUs. Additionally Designed a minimal single layer PCB for In-House Fabrication.',
     tech: ['Altium', 'PCB Layout', 'DFM', 'STM', 'Keil', 'Filters'],
