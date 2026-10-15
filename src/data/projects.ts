@@ -11,6 +11,16 @@ export interface Project {
 
 const data: Project[] = [
   {
+    title: 'Solar Planner',
+    subtitle: 'Pakistan Solar Planner',
+    link: 'https://devantidot.com/solar-planner',
+    image: '/images/projects/Solar_Planner.png',
+    date: '2026-10-16',
+    desc: 'The Pakistan Solar Planner turns your last 12 electricity bills into a clear solar plan. Enter your monthly units, your roof size and city, and how much backup you need. It shows the system that pays back best, what each system type costs side by side, how much roof it covers, and the right panel angle for your city.',
+    tech: ['HTML', 'Claude', 'CSS', 'JS'],
+    type: 1,
+  },
+  {
     title: 'STM Step Control',
     subtitle: 'Precise Stepper Control Library',
     link: 'https://muhammadtayyab1002.github.io/STM-StepControl',
